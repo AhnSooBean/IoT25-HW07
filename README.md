@@ -5,7 +5,7 @@
 
 https://github.com/user-attachments/assets/ff9c0a24-af9b-47f3-9c08-330c988cb1e8
 
-[ RSSI-based measurement of distance between BLE devices ]
+[ RSSI-based measurement of distance between BLE devices ] \n
 [ Linear regression model by comparing measured and actual distances ]
 
 1. BLE server
