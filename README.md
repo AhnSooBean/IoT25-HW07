@@ -5,13 +5,13 @@
 
 https://github.com/user-attachments/assets/ff9c0a24-af9b-47f3-9c08-330c988cb1e8
 
-- RSSI-based measurement of distance between BLE devices
-- Linear regression model by comparing measured and actual distances
+1. RSSI-based measurement of distance between BLE devices
+2. Linear regression model by comparing measured and actual distances
 
-1. BLE server
+1) BLE server
 - Send BLE ads with name "BLE_Server"
 - Broadcast to get signals from around
-2. BLE client
+2) BLE client
 - Scan BLE device, and find "BLE_Server"
 - Calculate distance with RSSI
 
