@@ -15,4 +15,5 @@ https://github.com/user-attachments/assets/ff9c0a24-af9b-47f3-9c08-330c988cb1e8
 : Scan BLE device, and find "BLE_Server" <br>
 : Calculate distance with RSSI
 
-![HW07 test finding](https://github.com/user-attachments/assets/d81c3998-2659-4c95-b9e7-9cd0a991d32c)
+![HW07 table](https://github.com/user-attachments/assets/a3baf2e4-527a-4660-a20c-adebd5ce2ab8)
+![HW07 bar chart (regression)](https://github.com/user-attachments/assets/23b86129-5413-45a9-a375-97b11a4b1169)
